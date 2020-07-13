@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "es6",
+        "esModuleInterop": true,
+        "importHelpers": true,
+        "moduleResolution": "node",
+        "noEmitOnError": false,
+        "lib": [
+            "ES2015",
+            "dom"
+        ]
+    }
+}
